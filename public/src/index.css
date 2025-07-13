@@ -1,0 +1,11 @@
+.big{
+  color:red;
+}
+.small{
+  color:green;
+  background-color: aqua;
+}
+*{
+  margin: 0;
+  padding:0;
+}
